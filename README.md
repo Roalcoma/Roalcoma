@@ -27,7 +27,7 @@ Here are some of the technologies I use in my projects:
 
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Roalcoma&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 📫 How to Reach Me
 
