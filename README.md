@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Cova 👋
 
-Welcome to my GitHub profile! I'm an independent developer. I specialize in backend and frontend development, and I have experience working with technologies such as **React**, **Node.js**, **Spring Boot**, **Python**, and **SQL Server**. My focus is on building robust and scalable solutions for web applications and integrating external platforms through **APIs**.
+Welcome to my  profile! I'm an independent developer. I specialize in backend and frontend development, and I have experience working with technologies such as **React**, **Node.js**, **Spring Boot**, **Python**, and **SQL Server**. My focus is on building robust and scalable solutions for web applications and integrating external platforms through **APIs**.
 
 ## 🚀 Technologies I Work With
 
